@@ -1,0 +1,2 @@
+# TOURNAMRNT_SCHEDULER
+"Round Robin Tournament Scheduler in Python. Generates match schedules for any number of teams, ensuring each team gets rest between matches. Supports custom or auto-generated team names. Perfect for planning sports leagues, esports tournaments, or friendly competitions."
