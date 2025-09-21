@@ -1,6 +1,6 @@
  Round Robin Tournament Scheduler with Rest Days
 
-A Python program** that generates a round robin tournament schedule where each team gets rest day between matches. No team plays back-to-back, making it perfect for sports leagues, e-sports tournaments, or any round robin-style competitions.
+A Python program that generates a round robin tournament schedule where each team gets rest day between matches. No team plays back-to-back, making it perfect for sports leagues, e-sports tournaments, or any round robin-style competitions.
 
 Features
 
