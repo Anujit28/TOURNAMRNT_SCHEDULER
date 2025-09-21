@@ -12,7 +12,6 @@ Uses the circle method for round robin scheduling:
 2. Matches are organized into rounds to guarantee rest.
 
 ## **Example Output**
-
 ```
 Round 1:
   Team 1 vs Team 4
